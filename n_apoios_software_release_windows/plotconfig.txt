@@ -1,0 +1,4 @@
+xLabel(Distance (m))
+yLabel(Bending Moment (N/m))
+Legend off
+Precision(12)
